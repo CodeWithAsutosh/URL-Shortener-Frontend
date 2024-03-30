@@ -36,7 +36,7 @@ const IOShortener = () => {
   return (
     <div className="inputContainer">
       <h1>
-        URL <span>Shortener</span>
+        Link <span>Swift</span>
       </h1>
       <div>
         <input
