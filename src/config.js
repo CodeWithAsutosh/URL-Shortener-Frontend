@@ -1,3 +1,3 @@
-const baseUrl = "https://linkswiftshortener.vercel.app/";
+const baseUrl = "https://linkswiftshortener.vercel.app";
 
 export default baseUrl;
